@@ -1,5 +1,7 @@
 /installer/
 
+.DS_Store
+
 ### Eclipse ###
 *.pydevproject
 .metadata

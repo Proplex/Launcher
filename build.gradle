@@ -27,10 +27,10 @@ subprojects {
     apply plugin: 'maven'
 
     group = 'com.skcraft'
-    version = '4.4-SNAPSHOT'
+    version = '4.7'
 
-    sourceCompatibility = 1.6
-    targetCompatibility = 1.6
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
 
     repositories {
         mavenCentral()
